@@ -21,7 +21,7 @@ Este es un proyecto de entrenamiento realizado como preparación para un reto se
 1. Asegúrate de tener Rust y Cargo instalados.
 2. Clona el repositorio:
    ```bash
-   git clone [[https://github.com/tu_usuario/Rust-BST-Tree.git](https://github.com/tu_usuario/Rust-BST-Tree.git)](https://github.com/alejandrorodm/Rust-BST-Tree)
+   git clone https://github.com/alejandrorodm/Rust-BST-Tree
    cd Rust-BST-Tree
    ```
 3. Ejecuta el proyecto.
